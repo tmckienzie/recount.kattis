@@ -14,7 +14,7 @@ namespace recount_problem
 				IDictionary<string, int> candidates = new Dictionary<string, int>();
 				string name;
 				int x, maxCount = 0, countOfMaxCount = 0;
-				string maxName = "Piya";
+				string maxName = "";
 				int count = 0;
 
 				do
